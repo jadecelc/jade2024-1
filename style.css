@@ -1,17 +1,28 @@
 body {
-    background-color: beige;
-   
-    text-align: center;
+    background-color: rgba(153, 50, 204, 0.817);
+    margin: 0px
 }
 
-
-p{color: aqua;
+nav a {
+    margin-top: 5px;
+    padding: 2px;
+    font-size: 20px;
+    color:rgba(204, 168, 238, 0.192);
+    display: flex;
+    justify-content: center;
 }
-
-.TATTOO {
+h1 {
+    color: darkturquoise;
+    padding-top: 5%;
+}
+.unicornio {
     font-style: italic;
 }
 
 .img1 {
     width: 50%;
+}
+
+.centro {
+    text-align: center;
 }
