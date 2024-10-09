@@ -6,13 +6,13 @@ body {
 nav a {
     margin-top: 5px;
     padding: 2px;
-    font-size: 20px;
-    color: darkolivegreen (204, 168, 238, 0.192);
+    font-size: 30px;
+    color: rgb(35, 56, 0) (204, 168, 238, 0.192);
     display: flex;
     justify-content: center;
 }
 h1 {
-    color: rgb(0, 124, 66);
+    color: rgb(0, 62, 33);
     padding-top: 5%;
 }
 .luz {
